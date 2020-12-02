@@ -1,0 +1,9 @@
+strings file created
+
+remove/add a charater in between a string
+string copy, length, reverse
+string concatenate
+
+removing special characters from a string - pending
+
+thank you
